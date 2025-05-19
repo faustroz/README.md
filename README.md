@@ -7,8 +7,7 @@
 ---
 
 🛠️ fivem • discord • ui/ux  
-⌨️ lua • js • html/css  
-🧩 ox_lib everything
+⌨️ lua • js • html/css
 
 ---
 
